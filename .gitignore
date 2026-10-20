@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+.venv/
+.env/
+
+# Python cache and notebooks
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Dataset and COCO downloads
+coco_unduhan/
+dataset_v1/
+dataset_yolo/
+
+# Training outputs and model checkpoints
+hasil_praktik/
+runs/
+weights/
+*.pt
+*.pth
+*.ckpt
+
+# Archives and temp files
+*.zip
+*.tar
+*.gz
+*.log
+*.tmp
+*.bak
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
