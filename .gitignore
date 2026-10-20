@@ -17,6 +17,8 @@ dataset_yolo/
 
 # Training outputs and model checkpoints
 hasil_praktik/
+hasil_praktik_*.csv
+hasil_praktik_*.txt
 runs/
 weights/
 *.pt
